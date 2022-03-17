@@ -1,5 +1,5 @@
-# rick-and-morty
-
+# Rick and Morty Characters
+A web app to show Rick and Morty characters made with Vue, Vuex and SASS.
 ## Project setup
 ```
 yarn install
